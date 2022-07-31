@@ -1,0 +1,11 @@
+QT.gifimage_private.VERSION = 0.1.0
+QT.gifimage_private.name = QtGifImage
+QT.gifimage_private.module =
+QT.gifimage_private.libs = $$QT_MODULE_LIB_BASE
+QT.gifimage_private.includes = $$QT_MODULE_INCLUDE_BASE/QtGifImage/0.1.0 $$QT_MODULE_INCLUDE_BASE/QtGifImage/0.1.0/QtGifImage
+QT.gifimage_private.frameworks =
+QT.gifimage_private.depends = gifimage
+QT.gifimage_private.uses =
+QT.gifimage_private.module_config = v2 internal_module
+QT.gifimage_private.enabled_features =
+QT.gifimage_private.disabled_features =
